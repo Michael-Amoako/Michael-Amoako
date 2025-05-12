@@ -2,11 +2,10 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">
-  I'm Michael —  a passionate front-end developer who loves crafting engaging user experiences. 
-  With a sharp eye for design and a passion for clean, efficient code, I specialize in creating seamless web applications and interactives interfaces
+  I'm Michael — learning front-end development through hands-on practice, curiosity, and building real projects. I’m focused on HTML, CSS, and JavaScript right now, and I enjoy turning ideas into simple, interactive websites. This repo is where I document what I learn and what I build as I grow into the developer I want to become.
 </p>
 
-<h2 align="left">🛠️ Here are the tools, libraries, technologies, and frameworks I've worked with:</h2>
+<h2 align="left">🛠️ Tools and technologies I’m exploring and learning:</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
